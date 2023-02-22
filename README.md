@@ -1,4 +1,4 @@
-## Repo: 5543 Spatial Databases
+## Repo: 5443 Python 2D Game by Dr. Terry Griifin. Spring 2023.
 #### Email: abubakkar.howladar@gmail.com
 
 ##### Image:
