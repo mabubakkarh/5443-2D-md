@@ -1,11 +1,8 @@
-# 5443-2D-md
+## Repo: 5543 Spatial Databases
+#### Email: abubakkar.howladar@gmail.com
 
-## Assignments
+##### Image:
+<img src="https://user-images.githubusercontent.com/91139301/186607472-b99ee4da-ac56-41e3-b27f-6d9d02ef6e21.jpg" width="150">
 
-| Number | Folder                    | Description           |
-| :----: | --------------------------| --------------------- |
-|   1    | [01-A01](https://github.com/mabubakkarh/5143-OS-Md/tree/main/Assignments/01-A01)                   | Get Started           |
-|   2    |[02-P01](https://github.com/mabubakkarh/5143-OS-Md/tree/main/Assignments/02-P01)                    | Implementation of a basic shell|
-|   3    | [03-P02](https://github.com/mabubakkarh/5143-OS-Md/tree/main/Assignments/03-P02)                   | CPU Scheduling Algorithm |
-|   4    | [04-P03](https://github.com/mabubakkarh/5143-OS-Md/tree/main/Assignments/04-P03)                   | Reader Writer Shared Memory |
-|   5    | [05-P04](https://github.com/mabubakkarh/5143-OS-Md/tree/main/Assignments/05-P04)                   | Reader Writer Race Condition |
+##### Avatar:
+<img src="https://user-images.githubusercontent.com/91139301/186606131-7174f7ad-b7ec-475c-ac18-8d6889166243.png" width="150">
