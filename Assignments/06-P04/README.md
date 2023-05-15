@@ -26,11 +26,11 @@ RabbitMQ server was provided by Dr. Terry Griffin
 
 **USAGE:**
 
--> There are two ways to download project:
+-> To download project, either:
 
-    • Clone the repository using below URL and navigate to Metal Slug folder in 06 – P04 folder
+    • Clone the repository using below URL
 
-	URL: https://github.com/nitishkumar2306/5443-2D-NitishKumar.git
+	URL: [https://github.com/nitishkumar2306/5443-2D-NitishKumar.git](https://github.com/mabubakkarh/5443-2D-md/tree/main/Assignments/06-P04)
 
     • Download the Zip file
     
