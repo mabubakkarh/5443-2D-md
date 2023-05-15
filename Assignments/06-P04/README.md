@@ -2,11 +2,24 @@
 
 **Overview:**
 
-Metal Slug is a side-scrolling, collaborative level game developed. The game follows a group of soldiers as they battle their way through various levels filled with enemy soldiers, tanks, and other obstacles. The game can be played solo or cooperatively with up to three other players.
+Metal Slug is a side-scrolling, collaborative level game developed. The game follows a group of soldiers as they battle their way through various levels filled with enemy soldiers, tanks, and other obstacles. Players have access to an array of weapons and power-ups that allow them to fight their way through the different challenges. The game can be played solo or cooperatively with up to three other players.
 
 As players progress through the game, they collect power-ups and other items that enhance their abilities and help them defeat tougher enemies. The game features multiple difficulty levels, providing a challenge for players of all skill levels.
 
-Overall, Metal Slug is a fast-paced, action-packed game that offers a fun and exciting cooperative game play experience.
+In Our multiplayer version, we used to RabbitMQ for message passing. We aplogize for the low fps which leads to poor quality of multiplayer gameplay.
+
+**Credits:**
+The sprite resource:
+https://www.spriters-resource.com/neo_geo_ngcd/ms3
+Tiled:
+https://thorbjorn.itch.io/tiled
+
+**Developers:**
+1. Md Abubakkar
+2. Nitish Kumar
+3. Loic Konan
+
+RabbitMQ server was provided by Dr. Terry Griffin
 
 
 **USAGE:**
