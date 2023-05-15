@@ -24,13 +24,22 @@ RabbitMQ server was provided by Dr. Terry Griffin
 
 **USAGE:**
 
-There are two ways to use this project:
+There are two ways to download project:
 
     • Clone the repository using below URL and navigate to Metal Slug folder in 06 – P04 folder
 
 	URL: https://github.com/nitishkumar2306/5443-2D-NitishKumar.git
 
     • Download the Zip file
+    
+ Now, download PyCharm Community Edition from https://www.jetbrains.com/pycharm/download/other.html
+ 
+ Load our files in PyCharm CE
+ 
+ Open a terminal and write *python3 main.py queue=game-01 player=player-01*
+ (write *python main.py queue=game-01 player=player-01* if you are using windows)
+ 
+ 
 
 **Prerequisites:**
 Install following dependencies using command line. Install them in the following formate pip install <dependency name>
