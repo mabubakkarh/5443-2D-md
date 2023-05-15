@@ -8,19 +8,6 @@ As players progress through the game, they collect power-ups and other items tha
 
 Overall, Metal Slug is a fast-paced, action-packed game that offers a fun and exciting cooperative game play experience.
 
-**Demo:**
-
-Game Start menu:
-
-![image](https://github.com/nitishkumar2306/5443-2D-NitishKumar/assets/123429249/17fab8cc-3286-48c9-8a8c-2f7c9eab70a8)
-
-**Game start-up screen:**
-
-![image](https://github.com/nitishkumar2306/5443-2D-NitishKumar/assets/123429249/e9f71945-1873-4711-85b9-11a9649a9af0)
-
-**Game end screen:**
-
-![image](https://github.com/nitishkumar2306/5443-2D-NitishKumar/assets/123429249/e4da5a47-193b-43ad-9f12-aebf16074614)
 
 **USAGE:**
 
