@@ -9,6 +9,7 @@ As players progress through the game, they collect power-ups and other items tha
 In Our multiplayer version, we used to RabbitMQ for message passing. We aplogize for the low fps which leads to poor quality of multiplayer gameplay.
 
 **Credits:**
+
 The sprite resource:
 https://www.spriters-resource.com/neo_geo_ngcd/ms3
 
