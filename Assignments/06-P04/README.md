@@ -57,10 +57,6 @@ Ex: pip install pytmx
     • time
     • pika
     • random
-
-
-       
-		
-
-
-
+	
+**Gameplay:**
+https://youtu.be/BCxIVFSl0eU
