@@ -33,6 +33,7 @@ RabbitMQ server was provided by Dr. Terry Griffin
     • Download the Zip file
     
  -> Now, download PyCharm Community Edition from https://www.jetbrains.com/pycharm/download/other.html
+ If you need help with configuring your python interpreter with Pycharm CE, please refer this- https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html#view_list
  
  -> Load our files in PyCharm CE
  
