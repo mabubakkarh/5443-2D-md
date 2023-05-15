@@ -1,3 +1,16 @@
+##########################################
+#                                        #
+# CMPS 5443 2D Python Game Final Project #
+#              Spring 2023               #
+#            Metal Slug Game             #
+#              Md Abubakkar              #
+#               Loic Konan               #
+#              Nitish Kumar              #
+#    Supervised By Dr. Terry Griffin     #
+#                                        #
+##########################################
+
+
 import pygame
 
 from screens.MainGame import Game, MainGame
